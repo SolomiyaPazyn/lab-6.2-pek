@@ -1,0 +1,13 @@
+﻿  UnitTest6.2 pek.cpp
+D:\programming\lab 6.2 pek\lab 6.2 pek\lab 6.2 pek.cpp(56,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest6.2%20pek.cpp')
+  
+D:\programming\lab 6.2 pek\lab 6.2 pek\UnitTest6.2 pek\UnitTest6.2 pek.cpp(17,12): error C2661: 'Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual': no overloaded function takes 1 arguments
+  (compiling source file '/UnitTest6.2%20pek.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(139,36):
+      could be 'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const T &,const T &,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)'
+          D:\programming\lab 6.2 pek\lab 6.2 pek\UnitTest6.2 pek\UnitTest6.2 pek.cpp(17,12):
+          'void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(const T &,const T &,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)': expects 4 arguments - 1 provided
+      D:\programming\lab 6.2 pek\lab 6.2 pek\UnitTest6.2 pek\UnitTest6.2 pek.cpp(17,12):
+      while trying to match the argument list '(bool)'
+  
